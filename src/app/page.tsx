@@ -1,4 +1,3 @@
-import { Elements } from "./component/Elements";
 import { SignPdf } from "./component/SignPdf";
 
 
